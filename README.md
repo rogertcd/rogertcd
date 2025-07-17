@@ -1,12 +1,8 @@
 # Welcome! I'm Rogert 👋💻🚀  
 
-### **Backend Developer**
+### 💻**Backend Developer**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rogertcd&show_icons=true&theme=radical&hide_title=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogertcd&layout=compact&theme=radical)
-
-### **About Me**
+### 👤**About Me**
 I really enjoy ⭐ everything related to technology 📱, programming 💻, and I'm passionate about web development.  
 - 🌱 Trying to become a better person every day.  
 - 💼 I enjoy working in teams and collaborating with other people.
@@ -41,8 +37,14 @@ I really enjoy ⭐ everything related to technology 📱, programming 💻, and 
 - 📚 **Learning:** Vue.js
 - 🤝 **Open to:** Collaborating on open-source or scalable API projects.  
 
-
 ### 📬**Connect with Me**
 - 📧 Email: [rogertcd@gmail.com](mailto:rogertcd@gmail.com)
 - 📘 LinkedIn: [https://linkedin.com/in/rogertcastillo](https://linkedin.com/in/rogertcastillo)
 - 📱 WhatsApp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square)](https://wa.me/+59172966304)
+
+### 📊**Stats**
+![Rogert's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rogertcd&card_width=450)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rogertcd&show_icons=true&rank_icon=github&card_width=450)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogertcd&layout=compact&card_width=450)
