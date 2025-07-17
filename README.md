@@ -23,6 +23,7 @@ I really enjoy ⭐ everything related to technology 📱, programming 💻, and 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=flat-square)
@@ -33,15 +34,15 @@ I really enjoy ⭐ everything related to technology 📱, programming 💻, and 
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat-square)
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?logo=phpstorm&logoColor=white&style=flat-square)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white&style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 
 ### 🌟**Current Focus**  
-- 🔭 **Working on:** Build microservices with Nest.js.  
+- 🔭 **Working on:** Building microservices with Nestjs.  
 - 📚 **Learning:** Vue.js
 - 🤝 **Open to:** Collaborating on open-source or scalable API projects.  
 
 
 ### 📬**Connect with Me**
 - 📧 Email: [rogertcd@gmail.com](mailto:rogertcd@gmail.com)
-- 🐦 Twitter: [@rogertcd](https://twitter.com/rogertcd)
 - 📘 LinkedIn: [https://linkedin.com/in/rogertcastillo](https://linkedin.com/in/rogertcastillo)
 - 📱 WhatsApp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square)](https://wa.me/+59172966304)
